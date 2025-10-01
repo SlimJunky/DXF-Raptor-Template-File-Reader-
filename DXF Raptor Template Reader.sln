@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DXF Raptor Template Reader", "DXF Raptor Template Reader.csproj", "{0D720F53-251B-4FF6-883E-4E75D62218FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D720F53-251B-4FF6-883E-4E75D62218FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D720F53-251B-4FF6-883E-4E75D62218FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D720F53-251B-4FF6-883E-4E75D62218FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D720F53-251B-4FF6-883E-4E75D62218FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87DB6B09-A9AD-4AF7-B550-620F3BE66421}
+	EndGlobalSection
+EndGlobal
